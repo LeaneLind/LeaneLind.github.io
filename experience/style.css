@@ -271,6 +271,11 @@ ul {
 
 
 
+.titre {
+    font-size: 23px;
+    margin-top: 0px;
+}
+
 .formation p {
     font-size: 17px;
     margin-left: 5px;
@@ -605,7 +610,7 @@ img.img-arrondie {
 
     h2 {
         font-size: 70px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         text-align: center;
     }
 
@@ -676,6 +681,12 @@ img.img-arrondie {
 
 
 
+
+
+    .titre {
+        font-size: 33px;
+        margin-top: 0px;
+    }
 
 
     .formation p {
